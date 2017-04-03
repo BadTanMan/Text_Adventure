@@ -1,4 +1,4 @@
 ﻿  Text_Adventure.cpp
-c:\users\j273631\desktop\file_handling\text_adventure\text_adventure\text_adventure.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Text_Adventure.vcxproj -> C:\Users\J273631\Desktop\File_Handling\Text_Adventure\Debug\Text_Adventure.exe
-  Text_Adventure.vcxproj -> C:\Users\J273631\Desktop\File_Handling\Text_Adventure\Debug\Text_Adventure.pdb (Full PDB)
+e:\tafe\text_adventure\text_adventure\text_adventure.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Text_Adventure.vcxproj -> E:\Tafe\Text_Adventure\Debug\Text_Adventure.exe
+  Text_Adventure.vcxproj -> E:\Tafe\Text_Adventure\Debug\Text_Adventure.pdb (Full PDB)
